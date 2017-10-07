@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/Foriero Store/Others/MIDIUnified/Examples/Sequencer/Sequencer.unity
+  isLoaded: 1
+  isActive: 1
